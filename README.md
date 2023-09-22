@@ -43,6 +43,8 @@ usage: run.py [-h]
 - output
 
     <img src="images/int8/output.png" width="400" height="300" alt="1" align="center" />
+    <img src="images/int8/link_score_heatmap.png" width="400" height="300" alt="1" align="center" />
+    <img src="images/int8/text_score_heatmap.png" width="400" height="300" alt="1" align="center" />
 
 ## Maintainer
 
