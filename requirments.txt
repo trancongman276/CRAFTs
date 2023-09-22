@@ -1,0 +1,2 @@
+opencv-python>=3.4.8.29,<4.5.4.62
+openvino
