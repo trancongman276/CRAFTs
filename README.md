@@ -1,5 +1,5 @@
 # CRAFTs
-![CRAFT](https://github.com/clovaai/CRAFT-pytorch) model exported to OpenVINO
+[CRAFT](https://github.com/clovaai/CRAFT-pytorch) model exported to OpenVINO
 
 ## Installation
 
